@@ -1,0 +1,8 @@
+TYPE=Ethernet
+BOOTPROTO=none
+NAME=enp0s9
+DEVICE=enp0s9
+ONBOOT=yes
+SLAVE=yes
+MASTER=bond0
+ZONE=
